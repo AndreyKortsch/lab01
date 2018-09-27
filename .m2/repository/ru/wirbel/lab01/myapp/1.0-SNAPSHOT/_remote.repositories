@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 17 19:15:28 MSK 2018
+myapp-1.0-SNAPSHOT.jar>=
+myapp-1.0-SNAPSHOT.pom>=

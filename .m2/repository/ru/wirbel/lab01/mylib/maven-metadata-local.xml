@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ru.wirbel.lab01</groupId>
+  <artifactId>mylib</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180917163714</lastUpdated>
+  </versioning>
+</metadata>
